@@ -1,6 +1,6 @@
 # OIBSIP-Landing-Page
 
-Food Website Link : https://amanj-18.github.io/OIBSIP-Landing-Page-food-website-/
+Food Website Link : https://amanj-18.github.io/Landing-Page-food-website-/
 
 key Features : 
 
